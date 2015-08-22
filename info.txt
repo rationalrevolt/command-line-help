@@ -1,0 +1,29 @@
+Help on Info
+============
+nodes in same level: p n
+
+parent node: u
+
+nodes in any level: backspace space
+
+node beginning and ends in any level: [ ]
+
+node beginning: b
+
+top: t
+
+menu: m
+
+cross references: f
+
+last: l
+
+index: i
+
+apropos: M-x
+
+search string: s
+
+directory: d
+
+quit: q
