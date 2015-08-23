@@ -1,12 +1,12 @@
-Help on Info
-============
+info key binding
+==================
 nodes in same level: p n
 
 parent node: u
 
 nodes in any level: backspace space
 
-node beginning and ends in any level: [ ]
+node beginnings in any level: [ ]
 
 node beginning: b
 
